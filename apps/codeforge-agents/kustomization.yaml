@@ -5,4 +5,4 @@ resources:
   - service.yaml
 images:
   - name: imaravinda/codeforge-agents
-    newTag: "ef892398df4d"
+    newTag: "7bc840d24bf4"
